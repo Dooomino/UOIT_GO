@@ -1,10 +1,11 @@
 # UOIT GO
 
-A new Flutter project.
+A App like game built based on Flutter and Android plantform 
 
 ## Getting Started
 
 This project is a starting point for a Flutter application "UOIT GO"
+### To build this project:
 1. run `flutter pub get` first.
 2. `flutter run`.
 
