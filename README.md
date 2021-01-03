@@ -1,6 +1,6 @@
 # UOIT GO
 
-A App like game built based on Flutter and Android plantform 
+An alternate game based on Flutter and Android plantform 
 
 ## Getting Started
 
